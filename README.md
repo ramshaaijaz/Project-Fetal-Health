@@ -13,10 +13,9 @@ $ import pandas
 $ from sklearn cluster, datasets, metrics
 
 How to read the file?
+$!gitclone https://github.com/ramshaaijaz/Fetal-Health
+$ pd.read.csv command and copied the file's path
 ````````````
-I cloned it on my repository, this is beneficial if you have large datasets
-!gitclone https://github.com/ramshaaijaz/Fetal-Health
-After that I passed the pd.read.csv command and copied the file's path
 Then, I started reading the data to run various commands like df.describe to understand the description of the model, and made different boxplots to see the outliers etc. 
 After that, I ran commands for different machine learning models but before that I split the data into train test and scaled and normalized the data to resolve any imbalances in the dataset. 
 .................
