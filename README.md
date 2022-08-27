@@ -20,5 +20,5 @@ Then, I started reading the data to run various commands like df.describe to und
 After that, I ran commands for different machine learning models but before that I split the data into train test and scaled and normalized the data to resolve any imbalances in the dataset. 
 .................
 ## Results
-After all the models were applied, XGBoost showed the highest accuracy at 0.94, followed by random forest 0.93. I have also run confusion matrix to make sure, we are not only deluded by the accuracy scores
+After all the models were applied, XGBoost showed the highest accuracy at 0.94, followed by random forest 0.93. I also ran confusion matrix to make sure we are not only deluded by the accuracy scores
 
