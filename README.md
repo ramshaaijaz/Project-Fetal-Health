@@ -7,7 +7,7 @@ The data is taken from kaggle dataset https://www.kaggle.com/andrewmvd/fetal-hea
 ## How to use the code
 This file can be downloaded and run on google colab or a local python program. You will have to rerun all the import packages and the codes to get the desired results. 
 A little intro about the installing packages. 
-```
+
 $ import numpy
 $ import pandas
 $ from sklearn cluster, datasets, metrics
